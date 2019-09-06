@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">dtc-batch1-android-activityintent</string>
+    <string name="text_btn_pindah_activity">pindah activity</string>
+    <string name="text_btn_pindah_activity_dengan_data">pindah activity dengan data</string>
+    <string name="text_btn_telepon">Telepon</string>
+    <string name="text_btn_buka_browser">Buka browser</string>
 </resources>
